@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Atualmente sou estudante de Sitemas de Informação (UFAC).
-- 🌱 Atualmente estou estudando back end com Node JS.
+- 🌱 Atualmente estou estudando back end com Node JS e Frontend com React JS.
 
 <div>
 <a href="https://github.com/jonatanfragoso">
